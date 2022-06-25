@@ -1,0 +1,3 @@
+#!/bin/bash
+0 search/string school File containing "school"
+!:mime text/x-school
