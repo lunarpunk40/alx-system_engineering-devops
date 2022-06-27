@@ -1,0 +1,1 @@
+tail -n /etc/passwd
