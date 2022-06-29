@@ -1,5 +1,2 @@
 #!/bin/bash
 tr `echo {a..z} | tr -d  ` `echo {n..z} $(echo {a..m}) | tr -d  ` | tr `echo {A..Z} | tr -d  ` `echo {N..Z} $(echo {A..M}) | tr -d  ` 
-[main 9fbbdc8] encodes and decodes text using the rot13 encryption
- 1 file changed, 2 insertions(+)
- create mode 100755 0x03-shell_variables_expansions/101-rot13
